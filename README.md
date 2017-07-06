@@ -1,2 +1,2 @@
-# iris-docs
-Documentation about IRIS
+# aeppic-docs
+Documentation about Äppic
